@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Horses"
+date:   2020-11-03 12:16:35 +0100
+categories: jekyll update
+---
+
+Here's some horses animations I've done.
+
+<iframe src="https://player.vimeo.com/video/444989834" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/444989834">3D Animation - Horse Running Forward</a> from <a href="https://vimeo.com/user4236670">Elie Ly Kok</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="https://player.vimeo.com/video/443712960" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/443712960">3D Animation - Horse Walking Forward</a> from <a href="https://vimeo.com/user4236670">Elie Ly Kok</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="https://player.vimeo.com/video/420277993" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/420277993">3D Animation - Horse Trot Cycle</a> from <a href="https://vimeo.com/user4236670">Elie Ly Kok</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="https://player.vimeo.com/video/475823086" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/475823086">3D Animation - Horse Trot To Walk</a> from <a href="https://vimeo.com/user4236670">Elie Ly Kok</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
