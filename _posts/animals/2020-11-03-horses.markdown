@@ -7,6 +7,9 @@ categories: jekyll update
 
 Here's some horses animations I've done.
 
+<iframe src="https://player.vimeo.com/video/483136784" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/483136784">3D Animation - Angry Horse</a> from <a href="https://vimeo.com/user4236670">Elie Ly Kok</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 <iframe src="https://player.vimeo.com/video/444989834" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/444989834">3D Animation - Horse Running Forward</a> from <a href="https://vimeo.com/user4236670">Elie Ly Kok</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
